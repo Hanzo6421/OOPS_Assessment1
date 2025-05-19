@@ -83,3 +83,31 @@ commit history.
 
 ## Question 11
 ### 11.	True or False: It is okay to commit broken code to the main branch.
+
+False
+
+## Question 12
+### 12. True or False: You should commit related changes. For example, fixing two different bugs should produce two separate commits.
+
+True
+
+## Question 13
+### 13.	Describe what is DevOps, how is it useful for game developers?
+
+In game development, DevOps focuses on minimizing waste,
+automating processes, and refining work by learning from previous errors. 
+By eliminating unnecessary elements, your team can 
+concentrate on creating outstanding games. 
+This approach is centered on iterative development.
+
+## Question 14
+### 14.	List what tools can be used with DevOps. Give a brief description of each one. (at least 3)
+
+Docker: Open-source platform that builds containerized environments for applications, enhancing portability and security.
+Git: A distributed version control system that supports non-linear development and collaboration among developers.
+SVN: Advamced version control system that offers efficient support for Widowns. It integrates wll with GUI tools.
+
+## Question 15
+### 15.	What is CI/CD and how can it be used to automate the game development process?
+
+The practice of automating the integration of code changes from multiple developers into a single codebase.
