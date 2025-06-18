@@ -2,9 +2,10 @@
 ## Questions 1
 ### 1. List three major version control software for software engineering
 
-1. Centralized Version Control Systems
-2. Distributed Version Control Systems
-3. Popular Version Control Systems
+1. Perforce 
+2. Git
+3. Apache Subversion
+4. Mercurial
 
 ## Questions 2
 ### 2.	What are the main advantages to using Git in your software development, and how is it useful for game developers.
